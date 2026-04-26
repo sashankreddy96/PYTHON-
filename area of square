@@ -1,0 +1,4 @@
+#area of square
+s=float(input("enter side"))
+area=s*s
+print(area)

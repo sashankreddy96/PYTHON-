@@ -1,0 +1,6 @@
+a=input("main string")
+b=input("sub string")
+if b in a:
+  print("yes")
+else:
+  print("no")

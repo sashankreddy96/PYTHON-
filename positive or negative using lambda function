@@ -1,0 +1,3 @@
+check = lambda x: "Positive" if x > 0 else ("Negative" if x < 0 else "Zero")
+n=int(input())
+print(check(n))

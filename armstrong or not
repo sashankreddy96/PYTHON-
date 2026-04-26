@@ -1,0 +1,13 @@
+n=int(input())
+temp =n
+digits=len(str(n))
+sum=0
+while n>0:
+  d=n%10
+  sum=sum+d**digits
+  n=n//10
+if temp==sum:
+  print("armstrong")
+else:
+  print("not a armstrong")
+

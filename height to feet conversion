@@ -1,0 +1,6 @@
+feet = int(input("Enter height in feet: "))
+inch = int(input("Enter height in inches: "))
+totalinches = feet * 12 + inch
+cm = totalinches * 2.54
+
+print(f"Height in centimeters: {cm:.2f} cm")

@@ -1,0 +1,11 @@
+#random functions
+import random as r
+r.seed(16)
+r.random()
+r.randint(1,10)
+r.randrange(1,10,2)
+r.choice([1,2,3,4,5])
+r.choices([1,2,3,4,5],k=3)
+r.uniform(1,10)
+r.shuffle([1,2,3,4,5])
+

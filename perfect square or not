@@ -1,0 +1,10 @@
+# perfect square or not using if else
+import math
+n=int(input("enter a number"))
+root=int(math.sqrt(n))
+if root * root == n:
+    print("perfect square")
+else:
+  print("not a perfect square")
+
+

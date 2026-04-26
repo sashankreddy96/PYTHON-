@@ -1,0 +1,14 @@
+import math as m
+#m.sqrt(25)
+#m.factorial(5)
+#m.radians(90)
+#m.degrees(1.5707963267948966)
+#m.sin(90)
+#m.cos(90)
+#m.tan(90)
+#m.pi
+m.sqrt(625)
+#m.pow(2,3)
+#m.log10(10)
+
+
